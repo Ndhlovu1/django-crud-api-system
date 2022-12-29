@@ -78,7 +78,7 @@ python3 manage.py runserver
 ![django_successful_install](https://user-images.githubusercontent.com/46927702/210017141-7324a12d-3cd8-455a-9df2-48e6eda83f01.png)
 
 
-### Files to be edited
+### Files to be created
 #### <li>Project level urls.py , as the name implies it is found in the RestaurantProject folder within the container folder (Read the Commit comments)</li>
 
 ![Screenshot from 2022-12-30 00-32-03](https://user-images.githubusercontent.com/46927702/210017428-511292f8-53e2-4aa1-902e-2aa36d8263f3.png)
