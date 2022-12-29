@@ -1,5 +1,5 @@
 # Django Rest Framework(RestApi) Management System
-## A django rest framework restaurant management system with two working apps utilizing a single database and one as to many ccommunication
+## A django rest framework restaurant management system with two working apps utilizing a single database and "one as to many" relationship
 
 #### 
 ```
