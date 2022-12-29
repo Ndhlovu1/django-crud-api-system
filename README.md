@@ -19,6 +19,11 @@ pipenv install django
 ```
 Type the code above to install and setup django as well as the virtual environment for you
 
+```shell
+pipenv shell
+```
+The code above will activate the virtual environment
+
 ```shell 
 django-admin startproject RestaurantProject
 ```
