@@ -90,9 +90,9 @@ python3 manage.py runserver
 
  
  #### <li>App level urls.py , You will have to create this one as it isn't provided by default when creating an app with manage.py</li>
- 
-![Screenshot from 2022-12-30 00-38-45](https://user-images.githubusercontent.com/46927702/210017870-aefa1706-e7a9-436e-a480-098d5feffb71.png)
-![Screenshot from 2022-12-30 00-38-54](https://user-images.githubusercontent.com/46927702/210017896-d03bb2a8-5648-49b8-8c9e-f72e935b061c.png)
+
+![Screenshot from 2022-12-30 00-51-00](https://user-images.githubusercontent.com/46927702/210018700-805d9a42-4317-44f4-b589-e87d7479ab97.png)
+![Screenshot from 2022-12-30 00-50-52](https://user-images.githubusercontent.com/46927702/210018697-336119df-cdcd-47e0-a3e4-d18f7c82db06.png)
 
 
 #### <li> serializers.py , this file must be created as it is needed to utilize the API's</li>
