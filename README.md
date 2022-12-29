@@ -73,7 +73,8 @@ INSTALLED_APPS = [
 ```shell
 python3 manage.py runserver
 ```
-The above shell command can be expected to add the load the below image, if yes then the entire setup was a success! Congrats!!!
+#### The above shell command can be expected to add the load the below image, if yes then the entire setup was a success! Congrats!!!
+
 ![django_successful_install](https://user-images.githubusercontent.com/46927702/210017141-7324a12d-3cd8-455a-9df2-48e6eda83f01.png)
 
 
