@@ -7,7 +7,7 @@
 ![Screenshot from 2022-12-29 21-46-26](https://user-images.githubusercontent.com/46927702/210011079-bc504e08-03a4-4e9a-8fe3-282233fa0194.png)
 
 
-### The Create['POST'] and fetch['GET'] Api(s) - Adding information to the Database and Pulling the information
+### The Create['POST'] and fetch['GET'] Api(s) - Adding information to the database and pulling the information
 ![Screenshot from 2022-12-29 21-42-11](https://user-images.githubusercontent.com/46927702/210011332-a9d66d35-ca23-432c-b4cb-c8611504af44.png)
 
 
