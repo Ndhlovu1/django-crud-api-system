@@ -97,8 +97,8 @@ python3 manage.py runserver
 
 #### <li> serializers.py , this file must be created as it is needed to utilize the API's</li>
 
-![Screenshot from 2022-12-30 00-46-57](https://user-images.githubusercontent.com/46927702/210018404-243a2e2b-a252-449a-b06a-2c95b3bc2300.png)
-![Screenshot from 2022-12-30 00-46-40](https://user-images.githubusercontent.com/46927702/210018396-8318f99c-eab7-40ac-a3cb-91e339a8791b.png)
+![Screenshot from 2022-12-30 00-50-46](https://user-images.githubusercontent.com/46927702/210018751-ed8269c5-34c1-4afa-a8eb-864e712fb857.png)
+![Screenshot from 2022-12-30 00-50-40](https://user-images.githubusercontent.com/46927702/210018746-bfccd773-aca7-4a1b-b71e-54de31ff0fff.png)
 
 
 
