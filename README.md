@@ -9,7 +9,7 @@
 ```
 ### Setting up all the file dependencies
 #### Ensure your python is 3.8
-```
+```shell
 #Run the command below to install the code
 > pipenv install
 ```
