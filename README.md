@@ -1,7 +1,7 @@
 # Django Rest Framework(RestApi) Management System
 ## A django rest framework restaurant management system with two working apps utilizing a single database and "one as to many" relationship
 
-#### Building the project
+## Building the project
 ```shell
 #Download the full project, together with the Pipfiles then run the following commands
 #Setup the virtual environment
