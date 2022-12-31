@@ -2,7 +2,7 @@
 ## A django rest framework restaurant management system with two working apps utilizing a single database and "one as to many" relationship
 
 ## Building the project
-### Setting up all the file dependencies
+#### Setting up all the file dependencies
 ```shell
 #Download the full project, together with the Pipfiles then run the following commands
 #Setup the virtual environment
@@ -14,7 +14,7 @@
 #Run the command below to install the code
 > pipenv install
 ```
-### Verify success project setup
+#### Verify success project setup
 ```shell
 #Ensure you are in the folder with the file manage.py
 > python3 manage.py runserver
