@@ -26,6 +26,8 @@ Please visit the installation Branch to properly configure the app or to underst
 
 https://github.com/Ndhlovu1/django-crud-api-system/tree/Ndhlovu1-installation-instructions-1
 
+## Projects Screenshots
+
 #### Images of the Project
 
 ##### The Listed Menu - affected directly by our Api-End points, the web-page updates on a page refresh
