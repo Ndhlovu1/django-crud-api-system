@@ -2,12 +2,13 @@
 ## A django rest framework restaurant management system with two working apps utilizing a single database and "one as to many" relationship
 
 ## Building the project
+### Setting up all the file dependencies
 ```shell
 #Download the full project, together with the Pipfiles then run the following commands
 #Setup the virtual environment
 > pipenv shell
 ```
-### Setting up all the file dependencies
+
 #### Ensure your python is 3.8
 ```shell
 #Run the command below to install the code
@@ -27,7 +28,7 @@ https://github.com/Ndhlovu1/django-crud-api-system/tree/Ndhlovu1-installation-in
 
 #### Images of the Project
 
-### The Listed Menu - affected directly by our Api-End points, the web-page updates on a page refresh
+##### The Listed Menu - affected directly by our Api-End points, the web-page updates on a page refresh
 ![Screenshot from 2022-12-29 21-46-26](https://user-images.githubusercontent.com/46927702/210011079-bc504e08-03a4-4e9a-8fe3-282233fa0194.png)
 
 
