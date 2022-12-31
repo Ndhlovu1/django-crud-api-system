@@ -20,7 +20,7 @@
 > python3 manage.py runserver
 ```
 
-### Visit the full installation instructions
+#### Visit the full installation instructions
 
 Please visit the installation Branch to properly configure the app or to understand the code better 
 
