@@ -14,7 +14,7 @@
 > pipenv install
 ```
 ### Verify success project setup
-```
+```shell
 #Ensure you are in the folder with the file manage.py
 > python3 manage.py runserver
 ```
