@@ -4,15 +4,27 @@
 #### Building the project
 ```shell
 #Download the full project, together with the Pipfiles then run the following commands
+#Setup the virtual environment
 > pipenv shell
 ```
-
-
+### Setting up all the file dependencies
+#### Ensure your python is 3.8
 ```
+#Run the command below to install the code
+> pipenv install
+```
+### Verify success project setup
+```
+#Ensure you are in the folder with the file manage.py
+> python3 manage.py runserver
+```
+
+### Visit the full installation instructions
+
 Please visit the installation Branch to properly configure the app or to understand the code better 
 
 https://github.com/Ndhlovu1/django-crud-api-system/tree/Ndhlovu1-installation-instructions-1
-```
+
 #### 
 
 ### The Listed Menu - affected directly by our Api-End points, the web-page updates on a page refresh
