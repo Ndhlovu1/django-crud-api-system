@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Lil Restaurant</title>
+
+        <!-- CSS only -->
+        <link href="bootstrap.min.css" rel="stylesheet">
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-gH2yIJqKdNHPEq0n4Mqa/HGKIhSkIHeL5AyhkYV8i59U5AR6csBvApHHNl/vI1Bx" crossorigin="anonymous">
+    </head>
+
+    <body>
+        <!-- JavaScript Bundle with Popper -->
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-A3rJD856KowSb7dwlZdYEkO39Gagi7vIsF0jrRAoQmDKKtQBHUuLZ9AsSv4jD4Xa" crossorigin="anonymous"></script>
+
+        <div class="container">
+            <div class="row">
+                <div class="col-12">
+                    <div class="text-center">
+                        <br /><h2>OUR MENU</h2><br />
+                    </div>
+                </div>
+
+                {% for item in data %}
+                <div class = "card shadow p-3 mb-5 bg-white rounded" style="width: 18rem; padding-top: 15px; margin: 20px;" >
+    
+                    <div class="cardbody" style="padding-top: 15px;">
+                        <div class="card-title">
+                            <h5>{{ item.item_name }} </h5>
+                            <p><b>Description</b> : {{ item.item_description }}</p>
+                            <p><b>Price</b> : {{ item.item_price }}</p>
+                        </div>
+                    </div>
+                </div>
+                {% endfor %} 
+
+            </div>
+        </div>
+
+    </body>
+</html>
