@@ -4,7 +4,10 @@
 ## Project Setup
 #### Installing and activating Environments
 ##### This project will be using pipenv to handle all our files and dependencies
-If you don't have pipenv installed follow the steps below to install and configure it.
+###### If you don't have pipenv installed follow the steps below to install and configure it
+follow the link below
+ https://pipenv.pypa.io/en/latest/
+
 
 
 ```shell
