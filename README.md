@@ -24,15 +24,7 @@ You should receive the version if everything went well
 follow the link to read more
  https://pipenv.pypa.io/en/latest/
 
-
-
-```shell
-#Download the full project, together with the Pipfiles then run the following commands
-#Setup the virtual environment
-> pipenv shell
-```
-
-#### Ensure your python is 3.8
+#### Install django and the Virtual Environment
 ```shell
 # Run the command below to install the code
 > pipenv install django
