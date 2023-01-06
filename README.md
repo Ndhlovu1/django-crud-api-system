@@ -29,12 +29,21 @@ follow the link to read more
 # Run the command below to install the code needed for django
 > pipenv install django
 ```
-```shell
-# Setup the virtual environment
-> pipenv shell
-```
+
 ##### You should receive now be in a virtaul environment with the name of the containing folder you are in (Screenshort below)
 
+```shell
+# Activate the virtual environment
+> pipenv shell
+# To deactivate the shell
+> deactivate
+```
+The code above will activate the virtual environment
+
+```shell 
+django-admin startproject RestaurantProject
+```
+The code above will setup all the necessary files that you need to be able to run create the various applications. (Consider this the Heartbeat of your project, always make sure you know what's happening and where it is happening in these files.)
 
 
 
