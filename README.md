@@ -1,5 +1,5 @@
 # Django Rest Framework(RestApi) Management System
-## A django rest framework restaurant management system with two working apps utilizing a single database and "one as to many" relationship
+## A django rest framework restaurant management system - Built on an Ubuntu machine >= 18.04
 
 ## Project Setup
 #### Installing and activating Environments
@@ -7,8 +7,9 @@
 ###### If you don't have pipenv installed follow the steps below to install and configure it, ensure you also have pip installed
 
 ```shell
-> # If you don't have pip installed 
-> 
+> # If you don't have pip installed run the below command
+> sudo apt install python3-pip
+> pip3 --version
 
 ```
 
