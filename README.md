@@ -43,12 +43,11 @@ follow the link to read more
 > python3 manage.py runserver
 ```
 
-
 #### Visit the full installation instructions
 
-Please visit the installation Branch to properly configure the app or to understand the code better 
+Please visit the project wiki to properly configure the application or and to better understand the code
 
-https://github.com/Ndhlovu1/django-crud-api-system/tree/Ndhlovu1-installation-instructions-1
+https://github.com/Ndhlovu1/django-crud-api-system/wiki
 
 Type the code above to install and setup django as well as the virtual environment for you
 
