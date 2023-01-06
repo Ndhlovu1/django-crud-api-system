@@ -26,7 +26,7 @@ follow the link to read more
 
 #### Install django and the Virtual Environment
 ```shell
-# Run the command below to install the code
+# Run the command below to install the code needed for django
 > pipenv install django
 ```
 ```shell
@@ -34,6 +34,9 @@ follow the link to read more
 > pipenv shell
 ```
 ##### You should receive now be in a virtaul environment with the name of the containing folder you are in (Screenshort below)
+
+
+
 
 #### Verify success project setup
 ```shell
@@ -48,16 +51,6 @@ Please visit the project wiki to properly configure the application or and to be
 https://github.com/Ndhlovu1/django-crud-api-system/wiki
 
 Type the code above to install and setup django as well as the virtual environment for you
-
-```shell
-pipenv shell
-```
-The code above will activate the virtual environment
-
-```shell 
-django-admin startproject RestaurantProject
-```
-The code above will setup all the necessary files that you need to be able to run create the various applications. (Consider this the Heartbeat of your project, always make sure you know what's happening and where it is happening in these files.)
 
 ```python3
 python3 manage.py startapp usersApp
