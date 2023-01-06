@@ -36,7 +36,7 @@ follow the link to read more
 > pipenv install django
 ```
 
-##### You should receive now be in a virtaul environment with the name of the containing folder you are in (Screenshort below)
+##### You should receive now be in a virtual environment with the name of the containing folder you are in (Screenshort below)
 
 ```shell
 # Activate the virtual environment
