@@ -3,6 +3,10 @@
 
 ## Project Setup
 #### Installing and activating Environments
+##### This project will be using pipenv to handle all our files and dependencies
+
+
+
 ```shell
 #Download the full project, together with the Pipfiles then run the following commands
 #Setup the virtual environment
