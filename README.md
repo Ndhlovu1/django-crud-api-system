@@ -1,5 +1,6 @@
 # Django Rest Framework(RestApi) Management System
-## A django rest framework restaurant management system - Built on an Ubuntu machine >= 18.04
+## A django rest framework restaurant management system
+### Built on an Ubuntu machine >= 18.04
 
 ## Project Setup
 #### Installing and activating Environments
