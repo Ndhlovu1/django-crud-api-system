@@ -2,6 +2,12 @@
 ## A django rest framework restaurant management system
 ### Built on an Ubuntu machine >= 18.04 - Commands will still run on windows(please read the wiki)
 
+#### Visit the full installation instructions
+
+Please visit the project wiki to properly configure the application or and to better understand the code
+
+https://github.com/Ndhlovu1/django-crud-api-system/wiki
+
 ## Project Setup
 #### Installing and activating Environments
 ##### This project will be using pipenv to handle all our files and dependencies
