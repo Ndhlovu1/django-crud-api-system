@@ -20,7 +20,6 @@ You should receive the version if everything went well
 
 ```
 
-
 follow the link to read more
  https://pipenv.pypa.io/en/latest/
 
@@ -29,6 +28,11 @@ follow the link to read more
 # Run the command below to install the code
 > pipenv install django
 ```
+```shell
+# Setup the virtual environment
+> pipenv shell
+```
+##### You should receive now be in a virtaul environment with the name of the containing folder you are in (Screenshort below)
 
 #### Verify success project setup
 ```shell
