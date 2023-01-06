@@ -45,11 +45,11 @@ django-admin startproject RestaurantProject
 ```
 The code above will setup all the necessary files that you need to be able to run create the various applications. (Consider this the Heartbeat of your project, always make sure you know what's happening and where it is happening in these files.)
 
-#### Visit the full installation instructions
-
-Please visit the project wiki to properly configure the application or and to better understand the code
-
-https://github.com/Ndhlovu1/django-crud-api-system/wiki
+#### Verify success project setup
+```shell
+#Ensure you are in the folder with the file manage.py
+> python3 manage.py runserver
+```
 
 Type the code above to install and setup django as well as the virtual environment for you
 
