@@ -46,7 +46,6 @@ django-admin startproject RestaurantProject
 The code above will setup all the necessary files that you need to be able to run create the various applications. (Consider this the Heartbeat of your project, always make sure you know what's happening and where it is happening in these files.)
 
 
-
 #### Verify success project setup
 ```shell
 #Ensure you are in the folder with the file manage.py
