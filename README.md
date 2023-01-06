@@ -34,9 +34,10 @@ follow the link to read more
 
 #### Ensure your python is 3.8
 ```shell
-#Run the command below to install the code
-> pipenv install
+# Run the command below to install the code
+> pipenv install django
 ```
+
 #### Verify success project setup
 ```shell
 #Ensure you are in the folder with the file manage.py
