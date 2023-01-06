@@ -35,8 +35,8 @@ follow the link to read more
 # Run the command below to install the code needed for django
 > pipenv install django
 ```
-
 ##### You should receive now be in a virtual environment with the name of the containing folder you are in (Screenshort below)
+![Screenshot from 2023-01-07 01-24-52](https://user-images.githubusercontent.com/46927702/211116197-f62f1ead-30a9-419f-b448-81d285660eee.png)
 
 ```shell
 # Activate the virtual environment
@@ -44,7 +44,6 @@ follow the link to read more
 # To deactivate the shell
 > deactivate
 ```
-The code above will activate the virtual environment
 
 ```shell 
 django-admin startproject RestaurantProject
