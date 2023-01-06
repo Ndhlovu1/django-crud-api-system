@@ -68,12 +68,13 @@ While in the same folder, run the above command to create your second app.
 ```python3
 python3 manage.py startApp workersApp
 ```
-
+The command ```install```  allows python and django to interpret the rest of your project as a Django Rest Framework
 
 ```shell
 pipenv install djangorestframework
 ```
-The above command allows python and django to interpret the rest of your project as a Django Rest Framework
+The ```settings.py``` file without the implemented changes
+
 ```python3
 # go into the RestaurantProject/settings.py file 
 # Look for :
@@ -104,6 +105,7 @@ INSTALLED_APPS = [
 ]
 
 ```
+Start the server and see if it is running by typing the command below
 
 ```shell
 python3 manage.py runserver
