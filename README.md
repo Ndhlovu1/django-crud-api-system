@@ -12,10 +12,11 @@
 > pip3 --version
 
 ```
-
+You should receive the version if everything went well
 
 ```shell
-> 
+> pip3 install pipenv
+> pipenv --version
 
 ```
 
