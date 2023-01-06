@@ -58,16 +58,17 @@ The code above will setup all the necessary files that you need to be able to ru
 
 Type the code above to install and setup django as well as the virtual environment for you
 
-```python3
-python3 manage.py startapp usersApp
-```
-Navigate into the newly created "RestaurantProject" folder and run the above command.
+Navigate into the newly created "RestaurantProject" folder and run the above```startapp```  command.
 The command allows you to setup your very own django application(You can view this as a section of the entire web application, i.e. the Comments Section)
 
 ```python3
-python3 manage.py startApp workersApp
+python3 manage.py startapp usersApp
 ```
 While in the same folder, run the above command to create your second app.
+```python3
+python3 manage.py startApp workersApp
+```
+
 
 ```shell
 pipenv install djangorestframework
