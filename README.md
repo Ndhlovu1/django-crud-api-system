@@ -46,6 +46,11 @@ https://pipenv.pypa.io/en/latest/
 ##### You should receive now be in a virtual environment with the name of the containing folder you are in (Screenshort below)
 ![Screenshot from 2023-01-07 01-24-52](https://user-images.githubusercontent.com/46927702/211116197-f62f1ead-30a9-419f-b448-81d285660eee.png)
 
+
+## SIDE NOTE :
+##### When you have more than one django projects setup and running with pipenv in visual studio code(vscode)
+
+
 ```shell 
 django-admin startproject RestaurantProject
 ```
