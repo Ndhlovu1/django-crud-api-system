@@ -56,12 +56,13 @@ https://pipenv.pypa.io/en/latest/
 ##### Result : inside vscode in the terminal, you'll see the environment is now the same as the one you selected
 ![Screenshot from 2023-01-07 01-24-52](https://user-images.githubusercontent.com/46927702/211116197-f62f1ead-30a9-419f-b448-81d285660eee.png)
 
-## Continuing - Create the project
+## Continuing - Create the Project
 ```shell 
 django-admin startproject RestaurantProject
 ```
 The code above will setup all the necessary files that you need to be able to run create the various applications. (Consider this the Heartbeat of your project, always make sure you know what's happening and where it is happening in these files.)
 
+## Continuing - Create the Apps
 Navigate into the newly created "RestaurantProject" folder and run the above```startapp```  command.
 The command allows you to setup your very own django application(You can view this as a section of the entire web application, i.e. the Comments Section)
 
