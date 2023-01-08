@@ -47,7 +47,7 @@ https://pipenv.pypa.io/en/latest/
 ![Screenshot from 2023-01-07 01-24-52](https://user-images.githubusercontent.com/46927702/211116197-f62f1ead-30a9-419f-b448-81d285660eee.png)
 
 
-## SIDE NOTE :
+## SIDE NOTE : VERY IMPORTANT DON'T SKIP THIS!!!!!
 ##### When you have more than one django projects setup and running with pipenv in visual studio code(vscode)
 ##### You may find that your virtual environment is reflecting an older project due to this 
 ##### Solution : inside vscode press ``` ctrl + shift + p ``` the prompt below will appear , type/select ``` interpreter ```
@@ -56,6 +56,7 @@ https://pipenv.pypa.io/en/latest/
 ##### Solution : inside vscode then search for your virtual environment (it'll have the folder name you ran the commands in)
 ![Screenshot from 2023-01-08 23-03-07](https://user-images.githubusercontent.com/46927702/211219214-fd28189b-efd1-4d96-a2e0-a16a32b6f366.png)
 
+##### Result : inside vscode in the terminal, you'll see the environment is now the same as the one you selected
 
 ```shell 
 django-admin startproject RestaurantProject
