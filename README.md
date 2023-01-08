@@ -28,7 +28,7 @@ You should receive the version if everything went well
 ```
 
 follow the link to read more
- https://pipenv.pypa.io/en/latest/
+https://pipenv.pypa.io/en/latest/
 
 #### Install django and the Virtual Environment
 ```shell
