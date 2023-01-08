@@ -50,14 +50,6 @@ django-admin startproject RestaurantProject
 ```
 The code above will setup all the necessary files that you need to be able to run create the various applications. (Consider this the Heartbeat of your project, always make sure you know what's happening and where it is happening in these files.)
 
-#### Verify success project setup
-```shell
-#Ensure you are in the folder with the file manage.py
-> python3 manage.py runserver
-```
-
-Type the code above to install and setup django as well as the virtual environment for you
-
 Navigate into the newly created "RestaurantProject" folder and run the above```startapp```  command.
 The command allows you to setup your very own django application(You can view this as a section of the entire web application, i.e. the Comments Section)
 
