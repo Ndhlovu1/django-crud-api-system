@@ -99,9 +99,12 @@ INSTALLED_APPS = [
 ```
 Start the server and see if it is running by typing the command below
 
+Verify success project setup
 ```shell
-python3 manage.py runserver
+#Ensure you are in the folder with the file manage.py
+> python3 manage.py runserver
 ```
+Type the code above to install and setup django as well as the virtual environment for you
 #### The above shell command can be expected to add the load the below image, if yes then the entire setup was a success! Congrats!!!
 
 ![django_successful_install](https://user-images.githubusercontent.com/46927702/210017141-7324a12d-3cd8-455a-9df2-48e6eda83f01.png)
