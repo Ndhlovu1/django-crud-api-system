@@ -1,11 +1,9 @@
 # Django Rest Framework(RestApi) Management System
 ## A django rest framework restaurant management system
-### Built on an Ubuntu machine >= 18.04 - Commands will still run on windows(please read the wiki)
+##### Built on an Ubuntu machine >= 18.04 - Commands will still run on windows(please read the wiki)
 
-#### Visit the full installation instructions
-
-Please visit the project wiki to properly configure the application or and to better understand the code
-
+## Visit the full installation instructions
+##### Please visit the project wiki to properly configure the application or and to better understand the code
 https://github.com/Ndhlovu1/django-crud-api-system/wiki
 
 ## Project Setup
