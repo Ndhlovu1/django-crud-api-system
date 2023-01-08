@@ -42,10 +42,7 @@ https://pipenv.pypa.io/en/latest/
 # To deactivate the virtual environment
 > deactivate
 ```
-
-##### You should receive now be in a virtual environment with the name of the containing folder you are in (Screenshort below)
-![Screenshot from 2023-01-07 01-24-52](https://user-images.githubusercontent.com/46927702/211116197-f62f1ead-30a9-419f-b448-81d285660eee.png)
-
+##### You should see that now you will be in a virtual environment with the name of the containing folder you are in.
 
 ## SIDE NOTE : VERY IMPORTANT DON'T SKIP THIS!!!!!
 ##### When you have more than one django projects setup and running with pipenv in visual studio code(vscode)
