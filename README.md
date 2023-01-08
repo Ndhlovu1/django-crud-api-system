@@ -11,7 +11,7 @@ https://github.com/Ndhlovu1/django-crud-api-system/wiki
 ##### This project will be using pipenv to handle all our files and dependencies. If you don't have pipenv installed follow the steps below to install and configure it, ensure you also have pip installed
 
 ```shell
-> # If you don't have pip installed run the below command
+# If you don't have pip installed run the below command
 > sudo apt install python3-pip
 > pip3 --version
 
