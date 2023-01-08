@@ -54,6 +54,8 @@ https://pipenv.pypa.io/en/latest/
 ![Screenshot from 2023-01-08 23-02-54](https://user-images.githubusercontent.com/46927702/211219133-5b4be1bb-9efb-41ed-afb0-5c345de184eb.png)
 
 ##### Solution : inside vscode then search for your virtual environment (it'll have the folder name you ran the commands in)
+![Screenshot from 2023-01-08 23-03-07](https://user-images.githubusercontent.com/46927702/211219214-fd28189b-efd1-4d96-a2e0-a16a32b6f366.png)
+
 
 ```shell 
 django-admin startproject RestaurantProject
