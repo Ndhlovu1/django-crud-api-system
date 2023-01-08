@@ -54,6 +54,8 @@ https://pipenv.pypa.io/en/latest/
 ![Screenshot from 2023-01-08 23-03-07](https://user-images.githubusercontent.com/46927702/211219214-fd28189b-efd1-4d96-a2e0-a16a32b6f366.png)
 
 ##### Result : inside vscode in the terminal, you'll see the environment is now the same as the one you selected
+![Screenshot from 2023-01-07 01-24-52](https://user-images.githubusercontent.com/46927702/211116197-f62f1ead-30a9-419f-b448-81d285660eee.png)
+
 
 ```shell 
 django-admin startproject RestaurantProject
