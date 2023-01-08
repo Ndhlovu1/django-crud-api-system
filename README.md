@@ -49,6 +49,7 @@ https://pipenv.pypa.io/en/latest/
 
 ## SIDE NOTE :
 ##### When you have more than one django projects setup and running with pipenv in visual studio code(vscode)
+##### You may find that your virtual environment is reflecting an older project due to this 
 
 
 ```shell 
