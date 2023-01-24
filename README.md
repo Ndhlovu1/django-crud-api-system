@@ -156,6 +156,8 @@ Type the code above to install and setup django as well as the virtual environme
 ![Screenshot from 2022-12-29 21-42-38](https://user-images.githubusercontent.com/46927702/210011593-94afc907-2f8e-4a3a-b67f-99b487e018bc.png)
 
 
+
+
 #### The full fetch ['GET'] API sharing the data available in our model or database table
 ![Screenshot from 2022-12-29 21-44-17](https://user-images.githubusercontent.com/46927702/210011673-0f24a1f8-aad6-44cd-9a04-f6c1a254b6ed.png)
 
