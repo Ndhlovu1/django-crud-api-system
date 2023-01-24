@@ -13,7 +13,7 @@ https://github.com/Ndhlovu1/django-crud-api-system/wiki
 ```shell 
 # If you don't have pip installed run the below command 
 > sudo apt install python3-pip
-> pip3 --version
+> pip3 --version   
 
 ```
 You should receive the version if everything went well
