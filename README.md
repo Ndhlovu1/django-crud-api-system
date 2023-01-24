@@ -32,7 +32,7 @@ https://pipenv.pypa.io/en/latest/
 # Run the command below to install the code needed for django
 > pipenv install django
 ```
-
+ 
 ```shell
 # To activate the virtual environment
 > pipenv shell
