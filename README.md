@@ -41,7 +41,7 @@ https://pipenv.pypa.io/en/latest/
 ```
 ##### You should see that now you will be in a virtual environment with the name of the containing folder you are in.
 
-## SIDE NOTE : VERY IMPORTANT DON'T SKIP THIS!!!!!
+## SIDE NOTE : VERY IMPORTANT DON'T SKIP THIS!!!!! 
 ##### When you have more than one django projects setup and running with pipenv in visual studio code(vscode) either way always run through this step when creating a new django app
 ##### You may find that your virtual environment is reflecting an older project due to this 
 ##### Solution : inside vscode press ``` ctrl + shift + p ``` the prompt below will appear , type/select ``` interpreter ```
