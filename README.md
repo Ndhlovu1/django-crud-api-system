@@ -167,3 +167,6 @@ Type the code above to install and setup django as well as the virtual environme
 ![Screenshot from 2022-12-29 23-04-25](https://user-images.githubusercontent.com/46927702/210012043-948f925f-71e2-485d-978a-6ce8f9281177.png)
 
 
+
+
+
