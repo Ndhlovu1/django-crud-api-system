@@ -142,6 +142,7 @@ Type the code above to install and setup django as well as the virtual environme
 
 ## Projects Screenshots
 
+
 ### Images of the Project
 
 #### The Listed Menu - affected directly by our Api-End points, the web-page updates on a page refresh
