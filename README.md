@@ -6,6 +6,9 @@
 ##### Please visit the project wiki to properly configure the application or and to better understand the code
 https://github.com/Ndhlovu1/django-crud-api-system/wiki  
 
+## VSC Extensions
+1. SQLite Viewer by qwtel.com aka Florian Klampfer
+
 ## Project Setup    
 ##### Installing and activating Environments
 ##### This project will be using pipenv to handle all our files and dependencies. If you don't have pipenv installed follow the steps below to install and configure it, ensure you also have pip installed
