@@ -9,7 +9,7 @@ https://github.com/Ndhlovu1/django-crud-api-system/wiki
 ## VSC Extensions
 1. SQLite Viewer by qwtel.com aka Florian Klampfer
 2. Install Git from https://git-scm.com/book/en/v2/Getting-Started-Installing-Git
-3. Install Github Cli for your local machine 
+3. Install Github Cli for your local machine https://cli.github.com/manual/installation
 
 ## Project Setup    
 ##### Installing and activating Environments
